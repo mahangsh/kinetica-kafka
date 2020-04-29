@@ -1,0 +1,2 @@
+userId|long,movieId|long,rating|float,ts|long|timestamp
+1,2,3.5,1112486027
